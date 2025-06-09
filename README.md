@@ -2,7 +2,7 @@
 <!-- Adjustable Banner with Background Color -->
 <div style="background-color:rgb(36, 34, 34); width: 100%;">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" 
+    src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" 
     alt="Customizable Banner" 
     style="width: 100%; max-width: 1600px; height: auto; display: block; margin: 0 auto;">
 </div>
