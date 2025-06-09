@@ -38,12 +38,12 @@ I'm a passionate Data Engineer with a knack for solving complex data challenges 
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Arvind-Suthar-802&theme=dark" 
     alt="GitHub Streak Stats" 
-    style="max-width: 68%;"
+    style="max-width: 78%;"
   />
   <img 
     src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk0NTk0NjgsIm5iZiI6MTc0OTQ1OTE2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA5VDA4NTI0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwNWI3NjQ4YzE4MDE1MTkzNmJlOGU1MGUxMmIxOTYxMzc3OWQwZjcyYWY1MmJmMDRhYTFkZjAxMzFiOWJiMjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NyxN1xD7WgZUdmJLSn-QirGdxVSczMpYwowkYojo14s" 
     alt="Coder at desk" 
-    style="max-width: 30%; margin-left: 2%;"
+    style="max-width: 40%; margin-left: 2%;"
   />
 </div>
 
