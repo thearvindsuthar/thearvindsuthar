@@ -34,7 +34,7 @@ I'm a passionate Data Engineer with a knack for solving complex data challenges 
  <img src="https://komarev.com/ghpvc/?username=thearvindsuthar&label=👀%20Profile%20Views&color=informational&style=for-the-badge" alt="Profile views" />
 </p>
 
-<div align="center" style="display: flex;">
+<div align="Left" style="display: flex;">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Arvind-Suthar-802&theme=dark" 
     alt="GitHub Streak Stats" 
